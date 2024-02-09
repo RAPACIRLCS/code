@@ -1,0 +1,13 @@
+absl-py==2.0.0
+cfgv==3.4.0
+clarabel==0.6.0
+click==8.1.7
+jax[cpu]==0.4.18
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.2.0
+scipy==1.11.3
+tqdm==4.66.1
+
+# Install jax with CUDA support
+# pip install --upgrade "jax[cuda12_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
